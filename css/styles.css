@@ -1,0 +1,23 @@
+body{ 
+     fond-family: serif;
+  background-color: rgba(15, 225, 125,0.5);
+}
+img{ opacity: 1;
+  border-radius: 30px;
+   width: 50%;  hieght:auto;
+}
+.alibek{
+     
+      color: blue;
+}
+h1{
+     color: red;
+     background-color: rgb(87, 231, 97) ;
+     border: 2px dashed red;
+     border-radius: 10px; 
+     /* red gren blue 0-255 */
+}
+iframe{
+     border-radius: 30px;
+     width: 300px; hieght:200px; 
+}
